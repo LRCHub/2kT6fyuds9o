@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Everything be OK",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2026-01-05T13:32:59.310167Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything be OK",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_be_OK_Lucky_Kilimanjaro.txt"
+    }
+  ]
+}
